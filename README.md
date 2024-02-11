@@ -1,4 +1,4 @@
-https://holopin.me/shivam200446)](https://holopin.io/@shivam200446
+[![An image of @shivam200446's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivam200446)](https://holopin.io/@shivam200446)
 ### Aloha, I'm Shivam! 👋
 
 <!--
