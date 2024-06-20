@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 <img align="right" alt="Coding" width="245" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-🔭 I’m currently working on my Skills.<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Web3 Technology..<br>💬 Ask me about Any Tech-related Stuff.<br>📫 How to reach me btwshivam@gmail.com<br>⚡ Fun fact: I'm an Introvert.
+🔭 I’m currently working on my Skills.<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Web3 Technology..<br>💬 Ask me about Any Tech-related Stuff.<br>📫 How to reach me shivam200446@gmail.com<br>⚡ Fun fact: I'm an Introvert.
 
 
 ## 🌐 Socials:
