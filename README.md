@@ -1,5 +1,13 @@
 [![An image of @btwshivam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivam200446)](https://holopin.io/@shivam200446)
-### Aloha, I'm Shivam! 👋
+### <h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+there!!!..">
+  </a>
+</h1>
+<h2>
+  I'm Shivam! 👋
+</h2>
+<p align="right">
 
 <!--
 **btwshivam/btwshivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+## 💫 About Me:
 <img align="right" alt="Coding" width="245" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 🔭 I’m currently working on my Skills.<br>🤝 I’m looking for help with Exploring Modern Technology.<br>🌱 I’m currently learning Web3 Technology..<br>💬 Ask me about Any Tech-related Stuff.<br>📫 How to reach me shivam200446@gmail.com<br>⚡ Fun fact: I'm an Introvert.
