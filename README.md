@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🎓 **B.Tech - Computer Science & Cybersecurity** (VIT Bhopal, 2022-2026)
+- 🎓 **B.Tech - Computer Science & Cybersecurity** 
 - 🚀 Passionate about <b>Full-Stack Development</b>, <b>DevOps</b>, <b>Cybersecurity</b>, and <b>AI/ML</b>
 - 💼 **Intern @KubeStellar | Open-Source Contributor | HackSquad 2023 Winner**
 - 💡 **Looking to collaborate on:** **Open-Source & Innovative projects**   
