@@ -81,13 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btwshivam&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 📌 Featured Projects
-| 🚀 Project | 🔹 Description |
-|-----------|--------------|
-| 🏥 [**Care Sync**](https://github.com/btwshivam/Care-Sync) | **AI-powered** hospital management system optimizing OPD queues, real-time patient admission, and inventory. |
-| ⌨️ [**TypeRush**](https://github.com/btwshivam/TypeRush) | Real-time **multiplayer typing game** with analytics, 1000+ concurrent users, and themed challenges. |
-| 📰 [**Infinity Inshorts**](https://github.com/btwshivam/InfinityInshots) | Blogging platform with **Google Authentication, rich text editing, and interactive dashboards**. |
-| 💬 [**Kayee-ChatApp**](https://github.com/btwshivam/Kayee-ChatApp) | Scalable **real-time chat app** built with Golang, Redis, and WebSockets. |
 
 ## 💭 Quote of the Day
 
