@@ -27,7 +27,7 @@
 
 - 🎓 **B.Tech - Computer Science & Cybersecurity** 
 - 🚀 Passionate about <b>Full-Stack Development</b>, <b>DevOps</b>, <b>Cybersecurity</b>, and <b>AI/ML</b>
-- 💼 **Intern @KubeStellar | Open-Source Contributor | HackSquad 2023 Winner**
+- 💼 **LFX'25 @CNCF Kubestellar | Open-Source Contributor | HackSquad 2023 Winner**
 - 💡 **Looking to collaborate on:** **Open-Source & Innovative projects**   
 - 📩 **Reach me at:** [📧Mail](mailto:shivam200446@gmail.com)
 
