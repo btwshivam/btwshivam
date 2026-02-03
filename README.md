@@ -1,93 +1,294 @@
-# <div align="left">✨ Hey there! I'm Shivam | Full-Stack Developer ✨</div>
 
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast;Open-Source+Contributor;Cybersecurity+Explorer;AI/ML+Enthusiast" />
-  </a>
+<div align="center">
+  
+```
+                       _,    _   _    ,_
+                  .o888P     Y8o8Y     Y888o.
+                 d88888      88888      88888b
+                d888888b_  _d88888b_  _d888888b
+                8888888888888888888888888888888
+                8888888888888888888888888888888
+                YJGS8P"Y888P"Y888P"Y888P"Y8888P
+                 Y888   '8'   Y8P   '8'   888Y
+                  '8o          V          o8'
+                    `                     `
+```
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%22I'm+not+a+hero.+I'm+a+silent+guardian.%22;%22A+watchful+protector.+A+Dark+Knight+of+Code.%22" alt="Typing SVG" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=btwshivam&label=BATCAVE%20VISITORS&color=f0e68c&style=for-the-badge&base=10000)
+
 </div>
-
-## 🌍 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/shivxmm/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/btwshivxm" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/btwshivxm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:shivam200446@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-## 👨‍💻 About Me
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-
-- 🎓 **B.Tech - Computer Science & Cybersecurity** 
-- 🚀 Passionate about <b>Full-Stack Development</b>, <b>DevOps</b>, <b>Cybersecurity</b>, and <b>AI/ML</b>
-- 💼 **LFX'25 @CNCF Kubestellar | Open-Source Contributor | HackSquad 2023 Winner**
-- 💡 **Looking to collaborate on:** **Open-Source & Innovative projects**   
-- 📩 **Reach me at:** [📧Mail](mailto:shivam200446@gmail.com)
 
 ---
 
-## ⚡ Tech Stack
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+<img align="right" width="350" src="https://i.pinimg.com/originals/87/cd/ee/87cdee7f5bb1ce678c1eb5de5ce8ee2b.gif" alt="Batman Coding"/>
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/react%20query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
-  <img src="https://img.shields.io/badge/three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/framer--motion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
+## 🦇 **GOTHAM'S PROTECTOR**
 
-### 🏗 Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/WebSockets-0088CC?style=for-the-badge&logo=websockets&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
-</p>
+```yaml
+identity:
+  name: "Shivam Kumar"
+  codename: "The Dark Knight Developer"
+  base: "India"
+  
+roles:
+  primary: "Site Reliability Engineer (SRE)"
+  secondary: "Full-Stack Developer"
+  mission: "Protecting infrastructure from chaos"
 
-### ☁ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+origin_story:
+  education: "B.Tech - Computer Science & Cybersecurity"
+  training_ground: "VIT University"
+  
+current_operations:
+  - "🦇 LFX Mentor @CNCF KubeStellar"
+  - "  Maintainer & Admin @CNCF Kubstellar
+  - "⚡ Site Reliability Engineer"
+  - "🛡️ Open-Source Vigilante"
+  - "🏆 HackSquad 2023 Champion"
 
-## 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=btwshivam&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btwshivam&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+philosophy: |
+  "It's not who I am underneath,
+   but what I CODE that defines me."
+```
+
+<br clear="right"/>
+
+---
+
+## 🌃 **THE SIGNAL**
+
+<div align="center">
+
+| 📡 **CHANNEL** | 🔗 **LINK** |  **STATUS** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> | [shivxmm](https://linkedin.com/in/shivxmm/) | `🟢 ACTIVE` |
+| <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> | [@btwshivxm](https://twitter.com/btwshivxm) | `🟢 ACTIVE` |
+| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | [@btwshivxm](https://instagram.com/btwshivxm) | `🟢 ACTIVE` |
+| <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> | [shivam.devline@gmail.com](mailto:shivam.devline@gmail.com) | `🟢 ACTIVE` |
+
 </div>
 
+---
 
-## 💭 Quote of the Day
+## 🛠️ **THE BATCAVE ARSENAL**
 
-<div align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<div align="center">
+
+### ⚔️ **WEAPONS OF CHOICE** (Languages)
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+<br><sub><b>Go</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="65" height="65" />
+<br><sub><b>Solidity</b></sub>
+</td>
+</tr>
+</table>
+
+### 🎭 **GADGETS** (Frontend)
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+<br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
+<br><sub><b>Next.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="65" height="65" />
+<br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
+<br><sub><b>Redux</b></sub>
+</td>
+</tr>
+</table>
+
+### 🏰 **BATCOMPUTER** (Backend & Databases)
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+<br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="Express" width="65" height="65" />
+<br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+<br><sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
+<br><sub><b>Redis</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="65" height="65" />
+<br><sub><b>GraphQL</b></sub>
+</td>
+</tr>
+</table>
+
+### ☁️ **WAYNE ENTERPRISES CLOUD** (DevOps)
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br><sub><b>Kubernetes</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Actions" width="65" height="65" />
+<br><sub><b>Actions</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="65" height="65" />
+<br><sub><b>Prometheus</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+<br><sub><b>Linux</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **CRIME-FIGHTING STATS**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=btwshivam&bg_color=0d1117&color=f0e68c&line=f0e68c&point=ffffff&area=true&area_color=1a1a2e&hide_border=true&custom_title=🦇%20NIGHTLY%20PATROL%20ACTIVITY" width="95%" />
+
+<br/>
+
+<table>
+<tr>
+
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=btwshivam&theme=dark&background=0D1117&ring=F0E68C&fire=F0E68C&currStreakLabel=F0E68C&sideLabels=F0E68C&currStreakNum=FFFFFF&dates=C9D1D9&border=1A1A2E" />
+
+</td>
+
+</div>
+
+---
+
+## 🏆 **HALL OF JUSTICE**
+
+<div align="center">
+
 </div>
 
 <div align="center">
-  <p>🤝 <i>Let's connect and build something amazing together!</i></p>
+
+| 🦇 **MISSION** | 📅 **YEAR** | 🏅 **STATUS** |
+|:---|:---:|:---:|
+| **LFX Mentor** @ CNCF KubeStellar | 2025 | 🎖️ **Mentor** |
+| **LFX Mentee** @ CNCF KubeStellar | 2025 | ✅ Completed |
+| **Site Reliability Engineer** | OCT 2025- Present | 🔥 Active |
+| **HackSquad Winner** - Top Contributor | 2023 | 🏆 Champion |
+| **Hacktoberfest** - Open Source Contributor | 2023+ | ⭐ Active |
+| **Open Source Vigilante** - 100+ Contributions | Ongoing | 🔥 Active |
+
 </div>
+
+
+## 🌙 **LATEST MISSIONS** (Recent Projects)
+
+<div align="center">
+updating soon..
+
+</div>
+
+---
+
+## 🎭 **THE DARK KNIGHT'S CREED**
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "The code you write is not just code—it's a promise.           ║
+║    A promise to guard the systems, to protect the users,         ║
+║    and to stand against the endless night of bugs and errors.    ║
+║                                                                  ║
+║    I am the terror that compiles in the night.                   ║
+║    I am the debugger that never sleeps.                          ║
+║    I am... the Dark Knight Developer."                           ║
+║                                                                  ║
+║                                        — The Code of the Bat     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🤝 **ALLIANCE REQUEST**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<br/>
+
+### 💬 *"Gotham needs allies. Are you ready to answer the call?"*
+
+<br/>
+
+[![Collaborate](https://img.shields.io/badge/🦇_LIGHT_THE_SIGNAL-LET'S_BUILD_TOGETHER-f0e68c?style=for-the-badge&labelColor=0d1117)](mailto:shivam.devline@gmail.com)
+
+<br/>
+
+</div>
+
+<!---
+🦇 "Why do we fall? So we can learn to pick ourselves up."
+    This README was crafted in the shadows of the Batcave.
+--->
