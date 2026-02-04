@@ -22,8 +22,6 @@
   />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=btwshivam&label=BATCAVE%20VISITORS&color=f0e68c&style=for-the-badge&base=10000)
-
 </div>
 
 ---
@@ -330,7 +328,7 @@ updating soon..
           ▀       ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀ 
 ```
 ### 💬 *"Gotham needs allies. Are you ready to answer the call?"*
-
+![Profile Views](https://komarev.com/ghpvc/?username=btwshivam&label=BATCAVE%20VISITORS&color=f0e68c&style=for-the-badge&base=10000)
 <br/>
 
 [![Collaborate](https://img.shields.io/badge/🦇_LIGHT_THE_SIGNAL-LET'S_BUILD_TOGETHER-f0e68c?style=for-the-badge&labelColor=0d1117)](mailto:shivam.devline@gmail.com)
