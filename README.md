@@ -14,6 +14,7 @@
                     `                     `
 ```
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%22I'm+not+a+hero.+I'm+a+silent+guardian.%22;%22A+watchful+protector.+A+Dark+Knight+of+Code.%22" alt="Typing SVG" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=btwshivam&label=BATCAVE%20VISITORS&color=f0e68c&style=for-the-badge&base=10000)
@@ -27,46 +28,84 @@
 ## 🦇 **GOTHAM'S PROTECTOR**
 
 ```yaml
-identity:
-  name: "Shivam Kumar"
-  codename: "The Dark Knight Developer"
-  base: "India"
-  
-roles:
-  primary: "Site Reliability Engineer (SRE)"
-  secondary: "Full-Stack Developer"
-  mission: "Protecting infrastructure from chaos"
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         🦇 CLASSIFIED DOSSIER 🦇                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 
-origin_story:
-  education: "B.Tech - Computer Science & Cybersecurity"
-  training_ground: "VIT University"
-  
-current_operations:
-  - "🦇 LFX Mentor @CNCF KubeStellar"
-  - "  Maintainer & Admin @CNCF Kubstellar
-  - "⚡ Site Reliability Engineer"
-  - "🛡️ Open-Source Vigilante"
-  - "🏆 HackSquad 2023 Champion"
+IDENTITY MATRIX:
+├─ Legal Name      : Shivam Kumar
+├─ Codename        : The Dark Knight Developer
+├─ Alias           : btwshivam
+├─ Location        : Patna, India [BATCAVE COORDINATES: CLASSIFIED]
+└─ Status          : ACTIVE VIGILANTE
 
-philosophy: |
-  "It's not who I am underneath,
-   but what I CODE that defines me."
+ORIGIN STORY:
+├─ Training Ground : VIT University
+├─ Discipline      : B.Tech - Computer Science & Cybersecurity
+├─ Graduation Year : [CLASSIFIED]
+└─ Specialization  : Site Reliability Engineering & Full-Stack Development
+
+CURRENT OPERATIONS:
+├─ 🦇 Mission Alpha : LFX Mentor @CNCF KubeStellar
+├─ ⚔️ Mission Beta  : Maintainer & Admin @CNCF Kubstellar
+├─ ⚡ Mission Gamma : Site Reliability Engineer (Active Duty)
+├─ 🛡️ Mission Delta : Open-Source Community Guardian
+└─ 🏆 Achievement   : HackSquad 2023 Champion
+
+WAYNE ENTERPRISES PHILOSOPHY:
+> "It's not who I am underneath, but what I CODE that defines me."
+> "The night is darkest just before the deploy... And I promise you,
+>  the deployment is coming."
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🌃 **THE SIGNAL**
-
 <div align="center">
 
-| 📡 **CHANNEL** | 🔗 **LINK** |  **STATUS** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> | [shivxmm](https://linkedin.com/in/shivxmm/) | `🟢 ACTIVE` |
-| <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> | [@btwshivxm](https://twitter.com/btwshivxm) | `🟢 ACTIVE` |
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> | [@btwshivxm](https://instagram.com/btwshivxm) | `🟢 ACTIVE` |
-| <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> | [shivam.devline@gmail.com](mailto:shivam.devline@gmail.com) | `🟢 ACTIVE` |
+## 🌃 **THE BAT-SIGNAL NETWORK** 🌃
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://linkedin.com/in/shivxmm/">
+        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <br/>
+        <sub><b>🔗 Professional Network</b></sub>
+        <br/>
+        <sub>🟢 STATUS: ACTIVE</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://twitter.com/yourusername">
+        <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+        <br/>
+        <sub><b>🐦 Intelligence Feed</b></sub>
+        <br/>
+        <sub>🟢 STATUS: ACTIVE</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="mailto:your.email@example.com">
+        <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        <br/>
+        <sub><b>📧 Bat-Signal Direct</b></sub>
+        <br/>
+        <sub>🟢 STATUS: MONITORED</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://yourportfolio.com">
+        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+        <br/>
+        <sub><b>🌐 Batcave Archives</b></sub>
+        <br/>
+        <sub>🟢 STATUS: LIVE</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -269,15 +308,23 @@ updating soon..
 </div>
 
 ---
-
-## 🤝 **ALLIANCE REQUEST**
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+### 🌃 **THE SIGNAL IS LIT** 🌃
 
-<br/>
-
+```
+     ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄ 
+    ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░▌
+     ▀▀▀▀█░█▀▀▀▀ ▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀      ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀█░▌
+         ▐░▌     ▐░▌       ▐░▌▐░▌               ▐░▌          ▐░▌▐░▌    ▐░▌▐░▌       ▐░▌
+         ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌   ▐░▌▐░▌       ▐░▌
+         ▐░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░▌       ▐░▌
+         ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀      ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌   ▐░▌ ▐░▌▐░▌       ▐░▌
+         ▐░▌     ▐░▌       ▐░▌▐░▌               ▐░▌          ▐░▌    ▐░▌▐░▌▐░▌       ▐░▌
+         ▐░▌     ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄█░▌
+         ▐░▌     ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░▌
+          ▀       ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀ 
+```
 ### 💬 *"Gotham needs allies. Are you ready to answer the call?"*
 
 <br/>
