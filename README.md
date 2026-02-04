@@ -15,7 +15,12 @@
 ```
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=100&lines=%22I'm+not+a+hero.+I'm+a+silent+guardian.%22;%22A+watchful+protector.+A+Dark+Knight+of+Code.%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Summoned+when+production+fails.;SRE+%7C+LFX+Mentor+%7C+Open-Source+Guardian."
+    alt="Typing SVG"
+  />
+</a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=btwshivam&label=BATCAVE%20VISITORS&color=f0e68c&style=for-the-badge&base=10000)
 
@@ -36,14 +41,13 @@ IDENTITY MATRIX:
 ├─ Legal Name      : Shivam Kumar
 ├─ Codename        : The Dark Knight Developer
 ├─ Alias           : btwshivam
-├─ Location        : Patna, India [BATCAVE COORDINATES: CLASSIFIED]
+├─ Location        : India
 └─ Status          : ACTIVE VIGILANTE
 
 ORIGIN STORY:
 ├─ Training Ground : VIT University
-├─ Discipline      : B.Tech - Computer Science & Cybersecurity
-├─ Graduation Year : [CLASSIFIED]
-└─ Specialization  : Site Reliability Engineering & Full-Stack Development
+└─Discipline      : B.Tech - Computer Science & Cybersecurity
+
 
 CURRENT OPERATIONS:
 ├─ 🦇 Mission Alpha : LFX Mentor @CNCF KubeStellar
