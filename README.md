@@ -1,19 +1,6 @@
 
 <div align="center">
-  
-```
-                       _,    _   _    ,_
-                  .o888P     Y8o8Y     Y888o.
-                 d88888      88888      88888b
-                d888888b_  _d88888b_  _d888888b
-                8888888888888888888888888888888
-                8888888888888888888888888888888
-                YJGS8P"Y888P"Y888P"Y888P"Y8888P
-                 Y888   '8'   Y8P   '8'   888Y
-                  '8o          V          o8'
-                    `                     `
-```
-
+<img width="1600" height="640" alt="batman-begins-logo-png-20" src="https://github.com/user-attachments/assets/ba9446ff-7003-485e-b78c-cdc9aa31fd7a" />
 
 <a href="https://git.io/typing-svg">
   <img
