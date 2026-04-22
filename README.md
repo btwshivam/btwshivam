@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="1600" height="640" alt="batman-begins-logo-png-20" src="https://github.com/user-attachments/assets/ba9446ff-7003-485e-b78c-cdc9aa31fd7a" />
+<img width="800" height="300" alt="batman-begins-logo-png-20" src="https://github.com/user-attachments/assets/ba9446ff-7003-485e-b78c-cdc9aa31fd7a" />
 
 </div>
 
@@ -34,8 +34,6 @@ Founder:    Lowplane (Kerno - incident diagnosis engine)
 <br clear="right"/>
 
 ---
-
-<div align="center">
 
 ## `> social.network` 
 
@@ -87,7 +85,6 @@ Founder:    Lowplane (Kerno - incident diagnosis engine)
 
 
 ## `> tech.stack`
-<div align="center">
   
 ### 🧠 Languages
 
@@ -193,7 +190,6 @@ Founder:    Lowplane (Kerno - incident diagnosis engine)
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
@@ -234,14 +230,7 @@ Founder:    Lowplane (Kerno - incident diagnosis engine)
 
 <br/>
 
-<table>
-<tr>
-
-<td>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=btwshivam&theme=dark&background=0D1117&ring=F0E68C&fire=F0E68C&currStreakLabel=F0E68C&sideLabels=F0E68C&currStreakNum=FFFFFF&dates=C9D1D9&border=1A1A2E" />
-
-</td>
 
 </div>
 
@@ -267,11 +256,10 @@ Mentoring GSoC contributors building OWASP's flagship bug-logging tool — the i
 
 ---
 
-<div align="center">
-
 ### `> signal.lit`
 
-<img src="https://komarev.com/ghpvc/?username=btwshivam&label=PROFILE%20VIEWS&color=f0e68c&style=for-the-badge" alt="Profile Views" />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=btwshivam&label=PROFILE%20VIEWS&color=f0e68c&style=for-the-badge&base=10000" />
 
 <br/><br/>
 
