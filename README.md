@@ -40,7 +40,7 @@ Founder:    Lowplane (Kerno - incident diagnosis engine)
 <table>
 <tr>
 <td align="center" width="220">
-<a href="https://linkedin.com/in/shivxmm/">
+<a href="https://linkedin.com/in/btwshivam/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <br/>
 <sub><b>🔗 Professional Presence</b></sub>
