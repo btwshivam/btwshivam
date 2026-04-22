@@ -2,229 +2,231 @@
 <div align="center">
 <img width="1600" height="640" alt="batman-begins-logo-png-20" src="https://github.com/user-attachments/assets/ba9446ff-7003-485e-b78c-cdc9aa31fd7a" />
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Summoned+when+production+fails.;SRE+%7C+LFX+Mentor+%7C+Open-Source+Guardian."
-    alt="Typing SVG"
-  />
-</a>
-
 </div>
 
----
 
-<img align="right" width="350" src="https://i.pinimg.com/originals/87/cd/ee/87cdee7f5bb1ce678c1eb5de5ce8ee2b.gif" alt="Batman Coding"/>
+## `> whoami`
 
-## 🦇 **GOTHAM'S PROTECTOR**
+<img align="right" width="300" src="https://i.pinimg.com/originals/87/cd/ee/87cdee7f5bb1ce678c1eb5de5ce8ee2b.gif" alt="Batman Coding"/>
+
+I'm **Shivam** - a **Backend & DevOps Engineer** focused on building **cloud-native systems and infrastructure**.
+
+I design and ship **scalable backend services, distributed systems, and developer tooling** - working across **Kubernetes, Linux, and modern cloud stacks** to make systems reliable, observable, and fast. </br>
+I’ve also been involved in open-source at scale:
+- **LFX Mentee & Mentor** (Linux Foundation)
+- **GSoC Mentor** - OWASP BLT
+- **Maintainer** - CNCF KubeStellar 
+</br>
+
+My core strengths:
+- **Backend Engineering** → APIs, system design, concurrency, performance (Go)
+- **DevOps & Cloud** → CI/CD, infra automation, Kubernetes, production ops
+- **Systems & Observability** → deep debugging, tracing, eBPF-based insights
+
+I care about **systems that don’t just work - but explain why they break.**
 
 ```yaml
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         🦇 CLASSIFIED DOSSIER 🦇                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-IDENTITY MATRIX:
-├─ Legal Name      : Shivam Kumar
-├─ Codename        : The Dark Knight Developer
-├─ Alias           : btwshivam
-├─ Location        : India
-└─ Status          : ACTIVE VIGILANTE
-
-ORIGIN STORY:
-├─ Training Ground : VIT University
-└─Discipline      : B.Tech - Computer Science & Cybersecurity
-
-
-CURRENT OPERATIONS:
-├─ 🦇 Mission Alpha : LFX Mentor @CNCF KubeStellar
-├─ ⚔️ Mission Beta  : Maintainer & Admin @CNCF Kubstellar
-├─ ⚡ Mission Gamma : Site Reliability Engineer (Active Duty)
-├─ 🛡️ Mission Delta : Open-Source Community Guardian
-└─ 🏆 Achievement   : HackSquad 2023 Champion
-
-WAYNE ENTERPRISES PHILOSOPHY:
-> "It's not who I am underneath, but what I CODE that defines me."
-> "The night is darkest just before the deploy... And I promise you,
->  the deployment is coming."
+Location:   India
+Education:  B.Tech - Computer Science & Cybersecurity, VIT University
+Focus:      Backend Systems • Cloud-native infra • K8S • eBPF • AI
+Founder:    Lowplane (Kerno - incident diagnosis engine)
 ```
-
 <br clear="right"/>
 
 ---
 
 <div align="center">
 
-## 🌃 **THE BAT-SIGNAL NETWORK** 🌃
+## `> social.network` 
 
 <table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://linkedin.com/in/shivxmm/">
-        <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        <br/>
-        <sub><b>🔗 Professional Network</b></sub>
-        <br/>
-        <sub>🟢 STATUS: ACTIVE</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://twitter.com/yourusername">
-        <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-        <br/>
-        <sub><b>🐦 Intelligence Feed</b></sub>
-        <br/>
-        <sub>🟢 STATUS: ACTIVE</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        <br/>
-        <sub><b>📧 Bat-Signal Direct</b></sub>
-        <br/>
-        <sub>🟢 STATUS: MONITORED</sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://yourportfolio.com">
-        <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-        <br/>
-        <sub><b>🌐 Batcave Archives</b></sub>
-        <br/>
-        <sub>🟢 STATUS: LIVE</sub>
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="220">
+<a href="https://linkedin.com/in/shivxmm/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<br/>
+<sub><b>🔗 Professional Presence</b></sub>
+<br/>
+<sub>🟢 Active</sub>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://twitter.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/X_(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+<br/>
+<sub><b>📡 Tech & Insights</b></sub>
+<br/>
+<sub>🟢 Active</sub>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="mailto:shivam200446@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<br/>
+<sub><b>📧 Direct Contact</b></sub>
+<br/>
+<sub>🟢 Monitored</sub>
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://github.com/btwshivam">
+<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+<br/>
+<sub><b>🧠 Work & Projects</b></sub>
+<br/>
+<sub>🟢 Live</sub>
+</a>
+</td>
+</tr>
 </table>
 
-</div>
+<br clear="right"/>
 
----
 
-## 🛠️ **THE BATCAVE ARSENAL**
-
+## `> tech.stack`
 <div align="center">
-
-### ⚔️ **WEAPONS OF CHOICE** (Languages)
+  
+### 🧠 Languages
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<br><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-<br><sub><b>C++</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" alt="Go" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=go" width="65" height="65" />
 <br><sub><b>Go</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" width="65" height="65" />
-<br><sub><b>Solidity</b></sub>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+<br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+<br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="65" height="65" />
+<br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
+<br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ruby" width="65" height="65" />
+<br><sub><b>Ruby</b></sub>
 </td>
 </tr>
 </table>
 
-### 🎭 **GADGETS** (Frontend)
+---
+
+### ⚙️ Backend Systems
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<br><sub><b>React</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="65" height="65" />
-<br><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="65" height="65" />
-<br><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-<br><sub><b>Redux</b></sub>
-</td>
-</tr>
-</table>
-
-### 🏰 **BATCOMPUTER** (Backend & Databases)
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
 <br><sub><b>Node.js</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" alt="Express" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=express" width="65" height="65" />
 <br><sub><b>Express</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
-<br><sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" />
 <br><sub><b>PostgreSQL</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
+<br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="65" height="65" />
 <br><sub><b>Redis</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" />
 <br><sub><b>GraphQL</b></sub>
 </td>
 </tr>
 </table>
 
-### ☁️ **WAYNE ENTERPRISES CLOUD** (DevOps)
+---
+
+### ☁️ Cloud & DevOps
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
 <br><sub><b>Docker</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" />
 <br><sub><b>Kubernetes</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
 <br><sub><b>AWS</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Actions" width="65" height="65" />
-<br><sub><b>Actions</b></sub>
+<img src="https://skillicons.dev/icons?i=githubactions" width="65" height="65" />
+<br><sub><b>CI/CD</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="65" height="65" />
-<br><sub><b>Prometheus</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="65" height="65" />
+<br><sub><b>Helm</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="65" height="65" />
+<br><sub><b>Argo CD</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=terraform" width="65" height="65" />
+<br><sub><b>Terraform</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" />
 <br><sub><b>Linux</b></sub>
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 📊 **CRIME-FIGHTING STATS**
+### 🔍 Systems & Observability
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" />
+<br><sub><b>eBPF</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prometheus" width="65" height="65" />
+<br><sub><b>Prometheus</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=grafana" width="65" height="65" />
+<br><sub><b>Grafana</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="65" height="65" />
+<br><sub><b>Scripting</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
+<br><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
+
+---
+
+## `> github.signals`
 
 <div align="center">
 
@@ -245,86 +247,40 @@ WAYNE ENTERPRISES PHILOSOPHY:
 
 ---
 
-## 🏆 **HALL OF JUSTICE**
+## `> featured.projects`
 
-<div align="center">
+### 🦇 [**Kerno**](https://github.com/lowplane/kerno) &nbsp;·&nbsp; *Flagship*
+> **eBPF-powered Kubernetes incident diagnosis engine.**
 
-</div>
+Traces six kernel signal dimensions — syscall latency, TCP flows, OOM events, disk I/O, scheduler delays, and FD leaks — and ships a deterministic rule engine with optional LLM enrichment. `kerno doctor` produces a production-grade postmortem in seconds, not hours.
 
-<div align="center">
-
-| 🦇 **MISSION** | 📅 **YEAR** | 🏅 **STATUS** |
-|:---|:---:|:---:|
-| **LFX Mentor** @ CNCF KubeStellar | 2025 | 🎖️ **Mentor** |
-| **LFX Mentee** @ CNCF KubeStellar | 2025 | ✅ Completed |
-| **Site Reliability Engineer** | OCT 2025- Present | 🔥 Active |
-| **HackSquad Winner** - Top Contributor | 2023 | 🏆 Champion |
-| **Hacktoberfest** - Open Source Contributor | 2023+ | ⭐ Active |
-| **Open Source Vigilante** - 100+ Contributions | Ongoing | 🔥 Active |
-
-</div>
-
-
-## 🌙 **LATEST MISSIONS** (Recent Projects)
-
-<div align="center">
-updating soon..
-
-</div>
+`Go` · `eBPF` · `Kubernetes` · `Linux Kernel`
 
 ---
 
-## 🎭 **THE DARK KNIGHT'S CREED**
+### 🛡️ [**OWASP BLT**](https://github.com/OWASP-BLT/BLT) &nbsp;·&nbsp; *GSoC 2026 Mentor*
+> **Responsible security disclosure & bug-bounty platform.**
 
-<div align="center">
+Mentoring GSoC contributors building OWASP's flagship bug-logging tool — the infrastructure behind coordinated vulnerability disclosure across the ecosystem.
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The code you write is not just code—it's a promise.           ║
-║    A promise to guard the systems, to protect the users,         ║
-║    and to stand against the endless night of bugs and errors.    ║
-║                                                                  ║
-║    I am the terror that compiles in the night.                   ║
-║    I am the debugger that never sleeps.                          ║
-║    I am... the Dark Knight Developer."                           ║
-║                                                                  ║
-║                                        — The Code of the Bat     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+`Python` · `Django` · `Security`
 
 ---
+
 <div align="center">
 
-### 🌃 **THE SIGNAL IS LIT** 🌃
+### `> signal.lit`
 
-```
-     ▄▄▄▄▄▄▄▄▄▄▄  ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄ 
-    ▐░░░░░░░░░░░▌▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░▌
-     ▀▀▀▀█░█▀▀▀▀ ▐░▌       ▐░▌▐░█▀▀▀▀▀▀▀▀▀      ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀█░▌
-         ▐░▌     ▐░▌       ▐░▌▐░▌               ▐░▌          ▐░▌▐░▌    ▐░▌▐░▌       ▐░▌
-         ▐░▌     ▐░█▄▄▄▄▄▄▄█░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌ ▐░▌   ▐░▌▐░▌       ▐░▌
-         ▐░▌     ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░▌  ▐░▌  ▐░▌▐░▌       ▐░▌
-         ▐░▌     ▐░█▀▀▀▀▀▀▀█░▌▐░█▀▀▀▀▀▀▀▀▀      ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌   ▐░▌ ▐░▌▐░▌       ▐░▌
-         ▐░▌     ▐░▌       ▐░▌▐░▌               ▐░▌          ▐░▌    ▐░▌▐░▌▐░▌       ▐░▌
-         ▐░▌     ▐░▌       ▐░▌▐░█▄▄▄▄▄▄▄▄▄      ▐░█▄▄▄▄▄▄▄▄▄ ▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄█░▌
-         ▐░▌     ▐░▌       ▐░▌▐░░░░░░░░░░░▌     ▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░▌
-          ▀       ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀ 
-```
-### 💬 *"Gotham needs allies. Are you ready to answer the call?"*
-![Profile Views](https://komarev.com/ghpvc/?username=btwshivam&label=BATCAVE%20VISITORS&color=f0e68c&style=for-the-badge&base=10000)
-<br/>
+<img src="https://komarev.com/ghpvc/?username=btwshivam&label=PROFILE%20VIEWS&color=f0e68c&style=for-the-badge" alt="Profile Views" />
 
-[![Collaborate](https://img.shields.io/badge/🦇_LIGHT_THE_SIGNAL-LET'S_BUILD_TOGETHER-f0e68c?style=for-the-badge&labelColor=0d1117)](mailto:shivam.devline@gmail.com)
+<br/><br/>
+
+**Open to collaborating on infrastructure, observability, and Kubernetes tooling.**
+
+[![Let's build](https://img.shields.io/badge/🦇_Light_the_Signal-shivam.devline@gmail.com-f0e68c?style=for-the-badge&labelColor=0d1117)](mailto:shivam.devline@gmail.com)
 
 <br/>
+
+<sub><i>The night is darkest just before the deploy.</i></sub>
 
 </div>
-
-<!---
-🦇 "Why do we fall? So we can learn to pick ourselves up."
-    This README was crafted in the shadows of the Batcave.
---->
