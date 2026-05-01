@@ -187,10 +187,6 @@ Go + Wails desktop app with CVSS-based vulnerability detection, real-time networ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=btwshivam&bg_color=0d1117&color=f0e68c&line=f0e68c&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" width="95%" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=btwshivam&theme=dark&background=0D1117&ring=F0E68C&fire=F0E68C&currStreakLabel=F0E68C&sideLabels=F0E68C&currStreakNum=FFFFFF&dates=C9D1D9&border=1A1A2E" />
 
 </div>
