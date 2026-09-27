@@ -31,24 +31,30 @@ Building:   Kerno - eBPF incident diagnosis for Kubernetes
 
 ## `> featured.projects`
 
-### [**Kerno**](https://github.com/lowplane/kerno) &nbsp;·&nbsp; *Flagship*
+### [**Kerno**](https://github.com/optiqor/kerno) &nbsp;·&nbsp; *Flagship*
 > **eBPF-powered Kubernetes incident diagnosis engine.**
+
+[![Stars](https://img.shields.io/github/stars/optiqor/kerno?style=flat-square&color=F0E68C&labelColor=0D1117)](https://github.com/optiqor/kerno/stargazers)
+[![Forks](https://img.shields.io/github/forks/optiqor/kerno?style=flat-square&color=F0E68C&labelColor=0D1117)](https://github.com/optiqor/kerno/network/members)
+[![License](https://img.shields.io/github/license/optiqor/kerno?style=flat-square&color=F0E68C&labelColor=0D1117)](https://github.com/optiqor/kerno/blob/main/LICENSE)
 
 Traces kernel signal dimensions - syscall latency, TCP flows, OOM events, disk I/O, scheduler delays, and FD leaks - and ships a deterministic rule engine with optional LLM enrichment. `kerno doctor` produces a production-grade postmortem in seconds, not hours.
 
-`Go` · `eBPF` · `Kubernetes` · `Linux Kernel` · `DaemonSet`
+`Go` · `C (eBPF)` · `Kubernetes` · `Linux Kernel` · `DaemonSet` · `Helm`
 
 ---
 
-### [**Watchdog**](https://github.com/btwshivam/watchdog) &nbsp;·&nbsp; *Security Tooling*
-> **Cross-platform desktop security scanner for CVE detection and SSL/TLS auditing.**
+### [**Optiqor**](https://github.com/optiqor/optiqor) &nbsp;·&nbsp; *GitOps Platform*
+> **PR-time cost and security validation for Kubernetes.**
 
-Go + Wails desktop app with CVSS-based vulnerability detection, real-time network monitoring, and LLM-powered remediation reports. Embedded LevelDB for scan history, PDF/JSON export for compliance workflows.
+[![Stars](https://img.shields.io/github/stars/optiqor/optiqor?style=flat-square&color=F0E68C&labelColor=0D1117)](https://github.com/optiqor/optiqor/stargazers)
+[![Forks](https://img.shields.io/github/forks/optiqor/optiqor?style=flat-square&color=F0E68C&labelColor=0D1117)](https://github.com/optiqor/optiqor/network/members)
 
-`Go` · `Wails` · `LevelDB` · `React` · `OpenAI` · `Gemini`
+Reviews every Helm and Kustomize pull request before merge for cost and security issues, grounded in 30 days of Prometheus data, with one-click fixes. A Go modular monolith - API, Temporal workflow worker, in-cluster agent - issuing Ed25519-signed receipts verified against AWS billing. A 7-day auto-rollback watches merged changes for cost or SLO drift and opens a revert PR.
+
+`Go` · `Temporal` · `Kubernetes` · `Helm` · `ArgoCD` · `Prometheus` · `AWS`
 
 ---
-
 ## `> tech.stack`
 
 ### Languages
